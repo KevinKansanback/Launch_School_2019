@@ -1,0 +1,2 @@
+# Traditionally a key difference was the fact that hashes don't maintain order (but now they do)
+# Another key difference is that Hashes allow you to specify your key while Arrays make you use the index in order.
